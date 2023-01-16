@@ -31,7 +31,7 @@ If you want to see the technical details, you can check out the full code [here]
 I had a few goals in mind when I implemented the clustering models:
 * Find the optimal clustering model between k-means and dbscan by iterating through all possible paramaters that made logical sense on both models.
 * Determine the correct model using the appropriate accuracy metrics.
-* Determine the correct number of clusters using the shilouette scores and inertia values.
+* Determine the correct number of clusters using the shilouette scores and inertia values.  
 I was able to do this, and the results were insightful.
 
 ## [Results and Presentation](https://github.com/benjammin97/PolicyholderIdentification/blob/main/Categorizing%20Policyholders%20with%20Unsupervised%20Learning.pptx)
