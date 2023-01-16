@@ -35,6 +35,10 @@ I had a few goals in mind when I implemented the clustering models:
   
 I was able to do this, and the results were insightful.
 
+## Key Takeaways
+* K-means is the most effective clustering model
+* There are three primary risk levels for auto-insurance policyholders.
+
 ## [Results and Presentation](https://github.com/benjammin97/PolicyholderIdentification/blob/main/Categorizing%20Policyholders%20with%20Unsupervised%20Learning.pptx)
 
 ## [Problem Outline](https://github.com/benjammin97/PolicyholderIdentification/blob/main/MSC550%20Fall%202021%20Midterm.pdf)
