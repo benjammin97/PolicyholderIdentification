@@ -26,7 +26,17 @@ Python code that categorizes auto-insurance customers into groups based on risk 
 #### Scaling the Data:
 ![image](https://user-images.githubusercontent.com/65525140/212585219-d49f1c71-dcdb-4955-9b5a-0f205db47f6e.png)
 
-### [Problem Outline](https://github.com/benjammin97/PolicyholderIdentification/blob/main/MSC550%20Fall%202021%20Midterm.pdf)
-### [Code](https://github.com/benjammin97/PolicyholderIdentification/blob/main/CategorizingPolicyholders.py)
+## Implementing Machine Learning Clustering Models
+If you want to see the technical details, you can check out the full code [here](https://github.com/benjammin97/PolicyholderIdentification/blob/main/CategorizingPolicyholders.py).
+I had a few goals in mind when I implemented the clustering models:
+* Find the optimal clustering model between k-means and dbscan by iterating through all possible paramaters that made logical sense on both models.
+* Determine the correct model using the appropriate accuracy metrics.
+* Determine the correct number of clusters using the shilouette scores and inertia values.
+I was able to do this, and the results were insightful.
 
-### [Results and Presentation](https://github.com/benjammin97/PolicyholderIdentification/blob/main/Categorizing%20Policyholders%20with%20Unsupervised%20Learning.pptx)
+## [Results and Presentation](https://github.com/benjammin97/PolicyholderIdentification/blob/main/Categorizing%20Policyholders%20with%20Unsupervised%20Learning.pptx)
+
+## [Problem Outline](https://github.com/benjammin97/PolicyholderIdentification/blob/main/MSC550%20Fall%202021%20Midterm.pdf)
+## [Code](https://github.com/benjammin97/PolicyholderIdentification/blob/main/CategorizingPolicyholders.py)
+
+
