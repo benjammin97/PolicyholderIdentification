@@ -13,6 +13,7 @@ Python code that categorizes auto-insurance customers into groups based on risk 
 ## Preparing the Data
 #### [The Dataset](https://github.com/benjammin97/PolicyholderIdentification/blob/main/auto_policies_2020.csv) 
 #### Importing the Libraries:
+![image](https://user-images.githubusercontent.com/65525140/212584423-cbb7d171-ef71-4f8e-a498-46ccd8bb39f5.png)
 
 #### Importing the Data into Python:
 
