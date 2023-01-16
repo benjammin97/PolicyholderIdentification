@@ -16,6 +16,7 @@ Python code that categorizes auto-insurance customers into groups based on risk 
 ![image](https://user-images.githubusercontent.com/65525140/212584423-cbb7d171-ef71-4f8e-a498-46ccd8bb39f5.png)
 
 #### Importing the Data into Python:
+![image](https://user-images.githubusercontent.com/65525140/212584544-a0497d66-5770-4612-8f22-4fe3c6d8fe35.png)
 
 #### Cleaning and Scaling the Data:
 
