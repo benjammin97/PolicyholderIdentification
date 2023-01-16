@@ -19,6 +19,7 @@ Python code that categorizes auto-insurance customers into groups based on risk 
 ![image](https://user-images.githubusercontent.com/65525140/212584544-a0497d66-5770-4612-8f22-4fe3c6d8fe35.png)
 
 #### Cleaning and Scaling the Data:
+![image](https://user-images.githubusercontent.com/65525140/212584723-ca92618c-0302-4732-a3e7-4ec8d8696716.png)
 
 ### [Problem Outline](https://github.com/benjammin97/PolicyholderIdentification/blob/main/MSC550%20Fall%202021%20Midterm.pdf)
 ### [Code](https://github.com/benjammin97/PolicyholderIdentification/blob/main/CategorizingPolicyholders.py)
