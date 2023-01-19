@@ -42,7 +42,7 @@ I was able to do this, and the results were insightful.
 
 ## [Results and Presentation](https://github.com/benjammin97/PolicyholderIdentification/blob/main/Categorizing%20Policyholders%20with%20Unsupervised%20Learning.pptx)
 
-## [Problem Outline](https://github.com/benjammin97/PolicyholderIdentification/blob/main/MSC550%20Fall%202021%20Midterm.pdf)
+## [Problem Outline](https://github.com/benjammin97/PolicyholderIdentification/blob/main/AutoInsuranceCaseStudy.pdf)
 ## [Code](https://github.com/benjammin97/PolicyholderIdentification/blob/main/CategorizingPolicyholders.py)
 
 
